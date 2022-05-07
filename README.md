@@ -1,4 +1,9 @@
-### Hi there 👋
+## 我是张东贤 👋
+
+
+### 🐈‍⬛ Github Stats
+
+<img alt="dxzhangg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dxzhangg&theme=cobalt&show_icons=true" />
 
 <!--
 **dxzhangg/dxzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
